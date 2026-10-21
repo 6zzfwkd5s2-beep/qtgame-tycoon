@@ -4,7 +4,7 @@
 
 游戏的主题直接取自 demo 的验证结论：AI 能把开店计划从 0 推到 70 分，最后 30 分靠实地。军师承包上游（信息、逻辑、结构），玩家承包下游（现场、身体、随机性），整个玩法围绕这条分工线展开。
 
-开发文档见 [dev-guide](./dev-guide/index.md)：[玩法规则](./dev-guide/rules/index.md)、[页面规格](./dev-guide/screens/index.md)、[ROADMAP](../ROADMAP.md)。
+开发文档见 [dev-guide](./dev-guide/index.md)：[玩法规则](./dev-guide/rules/index.md)、[页面规格](./dev-guide/screens/index.md)、[ROADMAP](dev-guide/roadmap.md)。
 
 ## 核心循环
 
