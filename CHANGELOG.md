@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.0.2] - 2026-11-16
+
 ### Added
 
 - React + TypeScript 工程化：Vite 构建、ESLint（含 react-hooks 规则）、`tsc -b` 类型检查
